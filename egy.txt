@@ -1,1 +1,1 @@
-Változott a tartalma!
+System.out.println("Hello Git!");
